@@ -13,3 +13,4 @@ A simple Obsidian plugin that adds a live color preview next to hex codes in you
 - Additional Color Support: Add previews for RGB, HSL, and named colors.
 - Customization Options: Let users choose between circular or square previews.
 - Performance Enhancements: Optimize rendering for large lists of colors.
+- Duplicate Detection: Identify and merge duplicate colors across different formats (hex, RGB, HSL) to display a single preview for better optimization.
